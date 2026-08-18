@@ -35,6 +35,7 @@ const allowedOrigins = [
   'http://localhost:5174',
   'http://localhost:3000',
   'https://gilded-horse-630211.netlify.app',
+  'https://jessy-matrimony-01.netlify.app',
   process.env.CLIENT_URL
 ].filter(Boolean);
 
